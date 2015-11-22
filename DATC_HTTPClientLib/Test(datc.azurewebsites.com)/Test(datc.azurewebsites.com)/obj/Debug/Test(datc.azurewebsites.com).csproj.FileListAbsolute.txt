@@ -1,0 +1,11 @@
+D:\WORK_FOLDER\DATC_HTTPClientLib\Test(datc.azurewebsites.com)\Test(datc.azurewebsites.com)\bin\Debug\Test(datc.azurewebsites.com).exe.config
+D:\WORK_FOLDER\DATC_HTTPClientLib\Test(datc.azurewebsites.com)\Test(datc.azurewebsites.com)\bin\Debug\Test(datc.azurewebsites.com).exe
+D:\WORK_FOLDER\DATC_HTTPClientLib\Test(datc.azurewebsites.com)\Test(datc.azurewebsites.com)\bin\Debug\Test(datc.azurewebsites.com).pdb
+D:\WORK_FOLDER\DATC_HTTPClientLib\Test(datc.azurewebsites.com)\Test(datc.azurewebsites.com)\bin\Debug\System.Net.Http.Extensions.dll
+D:\WORK_FOLDER\DATC_HTTPClientLib\Test(datc.azurewebsites.com)\Test(datc.azurewebsites.com)\bin\Debug\System.Net.Http.Primitives.dll
+D:\WORK_FOLDER\DATC_HTTPClientLib\Test(datc.azurewebsites.com)\Test(datc.azurewebsites.com)\bin\Debug\System.Net.Http.Extensions.xml
+D:\WORK_FOLDER\DATC_HTTPClientLib\Test(datc.azurewebsites.com)\Test(datc.azurewebsites.com)\bin\Debug\System.Net.Http.Primitives.xml
+D:\WORK_FOLDER\DATC_HTTPClientLib\Test(datc.azurewebsites.com)\Test(datc.azurewebsites.com)\obj\Debug\Test(datc.azurewebsites.com).csproj.App.config
+D:\WORK_FOLDER\DATC_HTTPClientLib\Test(datc.azurewebsites.com)\Test(datc.azurewebsites.com)\obj\Debug\Test(datc.azurewebsites.com).exe
+D:\WORK_FOLDER\DATC_HTTPClientLib\Test(datc.azurewebsites.com)\Test(datc.azurewebsites.com)\obj\Debug\Test(datc.azurewebsites.com).pdb
+D:\WORK_FOLDER\DATC_HTTPClientLib\Test(datc.azurewebsites.com)\Test(datc.azurewebsites.com)\obj\Debug\Test(datc.azurewebsites.com).csprojResolveAssemblyReference.cache
